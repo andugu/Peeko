@@ -1,0 +1,9 @@
+Package: com.andugu.peeko
+Name: Peeko
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A little version for jailed devices of the tweak Peek-a-Boo from iOSCreatix
+Maintainer: andugu
+Author: andugu
+Section: Tweaks
