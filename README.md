@@ -8,7 +8,7 @@ All the credits for the main source code goes to [iOSCreatix](https://github.com
 
 This tweak can be used with ++ tweaks too! Just use the .ipa created with ppsideloader in the process.
 
-#####Thanks to
+### Thanks to
 * [iOSCreatix](https://github.com/ioscreatix/) for the main source code from Peek-a-Boo.
 * [andugu](https://github.com/andugu) (me) for the needed modifications.
 * [dado3212](https://github.com/dado3212) for the implementation of an alternative signing method.
@@ -16,14 +16,14 @@ This tweak can be used with ++ tweaks too! Just use the .ipa created with ppside
 * [alexzielenski](https://github.com/alexzielenski) for optool.
 * [BishopFox](https://github.com/BishopFox) for theos-jailed.
 
-#####Testes apps
+### Testes apps
 * Instagram 8.2
 `If you want to use Instagram++ with this, disable the "long hold to zoom image"`
 
 How to install
 ============
 
-###Requirements
+### Requirements
 
 * iOS device
 * Apple Developer account or certificates
@@ -33,7 +33,7 @@ How to install
 * [theos-jailed](https://codeload.github.com/BishopFox/theos-jailed/zip/master)
 * [iOS App Signer](https://dantheman827.github.io/ios-app-signer/)
 
-### Do it yourself steps
+### DIY
 
 * Uninstall the app from the iOS device.
 * Extract or download an decrypted ipa file of the app.
